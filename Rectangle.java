@@ -20,6 +20,7 @@ public class Rectangle
      * Note it will print the area of the
      * Rectangle object that called it using
      * the dot operator!
+     * It just calculates the area and prints it
      */ 
     public void printArea()
     {
